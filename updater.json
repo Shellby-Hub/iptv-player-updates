@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "notes": "Performans iyileştirmeleri ve otomatik güncelleme sistemi",
+  "pub_date": "2026-01-17T16:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "sNFdGoWogAdgNsuDcnakwuS8yP4kg73wj1hn4c6paVU/ioWLgiBwCgxIcgxfzw5YcVYOuhEH8NcbqH1nq5fdDA==",
+      "url": "https://github.com/Shellby-Hub/iptv-player/releases/download/v1.0.1/Alfa.IPTV.-.Windows.Player_1.0.1_x64-setup.exe"
+    }
+  }
+}
