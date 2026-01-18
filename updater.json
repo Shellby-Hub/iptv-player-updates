@@ -1,11 +1,11 @@
 {
-    "version": "1.0.4",
-    "notes": "v1.0.4 — Performans iyileştirme ve küçük hatalar düzeltildi.",
-    "pub_date": "2026-01-18T14:32:00Z",
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "untrusted comment: ...\nRUQwCAYspu15BBXudDji7hfTjRe6ysPoYoSa4OoxljY0VrADpmRGwp...==",
-            "url": "https://github.com/Shellby-Hub/iptv-player/releases/download/v1.0.4/Alfa.IPTV.-.Windows.Player_1.0.4_x64-setup.exe"
-        }
+  "version": "1.0.4",
+  "notes": "v1.0.4 – Performans iyileştirmeleri ve hata düzeltmeleri.",
+  "pub_date": "2026-01-18T13:45:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "untrusted comment: signature from tauri secret key\nRUQwCAYs...\ntrusted comment: timestamp:...\nXfrNLPm9...",
+      "url": "https://github.com/Shellby-Hub/iptv-player/releases/download/v1.0.4/Alfa.IPTV.-.Windows.Player_1.0.4_x64-setup.exe"
     }
+  }
 }
