@@ -1,11 +1,11 @@
 {
   "version": "1.0.3",
-  "notes": "v1.0.3 – Performans iyileştirmeleri ve hata düzeltmeleri.",
-  "pub_date": "2026-01-18T13:45:00Z",
+  "notes": "🚀 Performans iyileştirmeleri ve hata düzeltmeleri (v1.0.3).",
+  "pub_date": "2026-01-18T15:37:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "SIGNATURE_BURAYA_YAPISTIR",
-      "url": "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v1.0.1/Alfa.IPTV.-.Windows.Player_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd0NBWXNwdTE1QkJsQ3NBckhnN1ViRUZrTXdiZTNldmFOYS9KMDBy0ZXZ3UVZLcERqYkd4VWx3VkVvNUJMVElQZGV0SG1MdUR1ZnBEbEhrZjNMUFkxMzlDZz09Cg==ZQpIQUU0MkpkdUFrY1Q1NWs1eWNTcjFLREh3QXVlWmx4UkpHUy80",
+      "url": "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v1.0.3/Alfa.IPTV.-.Windows.Player_1.0.3_x64-setup.exe"
     }
   }
 }
