@@ -1,10 +1,10 @@
 {
     "version": "1.0.6",
     "notes": "🚀 Performans iyileştirmeleri, dizi player düzeltmeleri ve geliştirilmiş bellek yönetimi. Player cleanup mekanizması güçlendirildi, uninstall temizliği genişletildi.",
-    "pub_date": "2026-01-19T00:40:55Z",
+    "pub_date": "2026-01-19T00:56:13Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "untrusted comment: signature from tauri secret key\nRUQwCAYspu15BDzRhscLGiCEH+aPXOe1gLHCMKxwlGRdAJwuYnd3Dx6vFB2I6LAfgoh9xReLA2mXXXDHGN2ODZapiDQAJqfEwQw=\ntrusted comment: timestamp:1768772455\tfile:Alfa.IPTV.-.Windows.Player_1.0.6_x64-setup.exe\n9kBJoqXoAwZbDrLhctSyoQwN4hxJYuYrwbcB3sZxYpp4dxpf5Zki8s8kUmddPzrNAzI7sYJh7fkGZcwLIQPACg==\n",
+            "signature": "untrusted comment: signature from tauri secret key\nRUQwCAYspu15BEoXWhiEsVWpnHmKTYJnz4e3MzGHblDJUq7TRyMWP0UYy50UvYQbifeBZ/LPG3VT1Aw3ipygGtC2tMvVjJEf0Q0=\ntrusted comment: timestamp:1768773373\tfile:Alfa.IPTV.-.Windows.Player_1.0.6_x64-setup.exe\nt06aAmHnn9Okl0UYPNRxqJVPo0qkUnQA0rNWseyBFGmkH4z2y6xdNpEmRTSd5e8YMrY17bavsLyXUTJ2y7iJDg==\n",
             "url": "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v1.0.6/Alfa.IPTV.-.Windows.Player_1.0.6_x64-setup.exe"
         }
     }
