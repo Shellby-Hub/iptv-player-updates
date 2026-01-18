@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "🚀 Performans iyileştirmeleri ve hata düzeltmeleri (v1.0.3).",
-  "pub_date": "2026-01-18T15:37:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd0NBWXNwdTE1QkJsQ3NBckhnN1ViRUZrTXdiZTNldmFOYS9KMDBy0ZXZ3UVZLcERqYkd4VWx3VkVvNUJMVElQZGV0SG1MdUR1ZnBEbEhrZjNMUFkxMzlDZz09Cg==ZQpIQUU0MkpkdUFrY1Q1NWs1eWNTcjFLREh3QXVlWmx4UkpHUy80",
-      "url": "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v1.0.3/Alfa.IPTV.-.Windows.Player_1.0.3_x64-setup.exe"
+    "version": "1.0.4",
+    "notes": "🚀 Performans iyileştirmeleri, dizi player düzeltmeleri ve geliştirilmiş bellek yönetimi. Player cleanup mekanizması güçlendirildi, uninstall temizliği genişletildi.",
+    "pub_date": "2026-01-18T22:10:32Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "untrusted comment: signature from tauri secret key\nRUQwCAYspu15BMY6ISbgmeN4Kn1xKxPalSrl5r16ccetWODdcyaxkj61QZavLR6ktPAtK+yr77BgdmK1Kv3LLZEFWRg10smbig0=\ntrusted comment: timestamp:1768763432\tfile:Alfa.IPTV.-.Windows.Player_1.0.4_x64-setup.exe\n7EBWgb2oXWuCqvwN5lloRf/9dH6uGxAxsw5STqPc78dGVyE+ZbAiB6n6g0wU5Qor2LP5cw0QBLOlkKRedhesCg==\n",
+            "url": "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v1.0.4/Alfa.IPTV.-.Windows.Player_1.0.4_x64-setup.exe"
+        }
     }
-  }
 }
