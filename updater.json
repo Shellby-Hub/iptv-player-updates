@@ -1,12 +1,12 @@
 {
     "version": "0.1.9",
-    "notes": "🔥 Güncelleme Sistemi Tamamen Yenilendi\n\n✅ Antigravity Stil Hızlı Kurulum\n✅ Otomatik Setup Başlatma\n✅ SHA-256 Güvenlik Doğrulaması\n✅ Şık Modern Arayüz",
+    "notes": "🔥 Güncelleme Sistemi Tamamen Yenilendi\n\n✅ Hızlı Kurulum: Setup otomatik başlar\n✅ Güvenlik: SHA-256 doğrulama eklendi\n✅ Arayüz: Premium modern tasarım\n✅ Performans: Gerçek zamanlı indirme takibi",
     "pub_date": "2026-01-19T21:36:00Z",
     "platforms": {
         "windows-x86_64": {
             "url": "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.1.9/Alfa_IPTV_Windows_Player_0.1.9_x64-setup.exe",
-            "sha256": "BURAYA_DOSYANIN_SHA256_HASH_KODUNU_YAZIN",
-            "size": 52428800 
+            "sha256": "767B38EC0B1D317B6D00A9B9A5F3D29DE15BC9F96B08400EF65E368346546FE9",
+            "size": 38286522
         }
     }
 }
