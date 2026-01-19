@@ -1,7 +1,7 @@
 {
-    "notes":  "Performans iyileştirmeleri ve hata düzeltmeleri.",
-    "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v1.0.9/Alfa.IPTV.-.Windows.Player_1.0.9_x64-setup.exe",
-    "version":  "1.0.9",
-    "pub_date":  "2026-01-19T19:11:15Z",
-    "sha256":  "3fd6ee3eda164de007eeacc3b53367ea16399ba81291fe5a37179c9ecb35ad16"
+    "version": "0.1.9",
+    "url": "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.1.9/Alfa_IPTV_Windows_Player_0.1.9_x64-setup.exe",
+    "sha256": "767B38EC0B1D317B6D00A9B9A5F3D29DE15BC9F96B08400EF65E368346546FE9",
+    "notes": "🔥 Güncelleme Sistemi Tamamen Yenilendi\n\n✅ Signal reactivity sorunu çözüldü\n✅ Retry mekanizması eklendi (3 deneme, 5sn bekleme)\n✅ Detaylı loglama sistemi\n✅ Gelişmiş hata yönetimi\n✅ Her adımda emoji'li status mesajları",
+    "pub_date": "2026-01-19T21:36:00Z"
 }
