@@ -1,10 +1,10 @@
 {
     "version":  "1.0.9",
     "notes":  "🚀 Güncelleme sistemi iyileştirildi, ilerleme çubuğu sorunu giderildi. Canlı yayın oynatma stabilizasyonu ve HLS kalite göstergesi iyileştirmeleri içerir.",
-    "pub_date":  "2026-01-19T16:41:10Z",
+    "pub_date":  "2026-01-19T17:20:42Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "untrusted comment: signature from tauri secret key\nRUQwCAYspu15BN6xayBnr6DTXbIMJjivYHE4CrUO3qBHR0kM528vMlZ41JVW7lF9b2JXOqJK7Ov/8uTgaeMxlgSW8y5lV9iPXgI=\ntrusted comment: timestamp:1768830070\tfile:Alfa.IPTV.-.Windows.Player_1.0.9_x64-setup.exe\nEcF0h8RuJGEK1hsNUu+bP5QtLY9iNNgox83C8ZtxIFPg047MXKn8xMxUptMGGb7asSChXF6ptp3lAEFybpepCw==\n",
+                                             "signature":  "untrusted comment: signature from tauri secret key\nRUQwCAYspu15BE/JDyibluhD8KdUjEw8a13ZAp9oDfTrgFh/kAKhyo1lLj0nmxMEt2c2iEvQf5whvMaGdJRB3nhUA3k+UidLxws=\ntrusted comment: timestamp:1768832442\tfile:Alfa.IPTV.-.Windows.Player_1.0.9_x64-setup.exe\nvCFQE88rSxt/CYO+atw1WNiiPzdELGIVo8ZEP2FUS8Os7iHSMNk80PTjXynFR8fKtPWxfFDZWYVnDvY3hZBaAA==\n",
                                              "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v1.0.9/Alfa.IPTV.-.Windows.Player_1.0.9_x64-setup.exe"
                                          }
                   }
