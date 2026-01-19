@@ -1,11 +1,11 @@
 {
-    "version": "1.0.7",
-    "notes": "🧪 TEST GÜNCELLEMESI: Otomatik güncelleme sistemi test ediliyor.",
-    "pub_date": "2026-01-19T01:33:20Z",
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "untrusted comment: signature from tauri secret key\nRUQwCAYspu15BPDglnnDsV5SyZCfL/quPdVDgMoVSN04TtxblofNN9NlQGeD/JlhbvYzTkPUit4W+cI0KV0cCjyDATKICTe9JgE=\ntrusted comment: timestamp:1768774132\tfile:Alfa.IPTV.-.Windows.Player_1.0.6_x64-setup.exe\niW2X21o1VHomgCQ9x1eWlq3Knbj2KB3F/3s7pQc624ijN7iXkNybyzGNFIHsOVVh4HK4bQmHW15AvPDxc1tHCA==\n",
-            "url": "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v1.0.7/Alfa.IPTV.-.Windows.Player_1.0.7_x64-setup.exe"
-        }
-    }
+    "version":  "1.0.8",
+    "notes":  "🚀 Canlı yayın açılmama (512 Hata) sorunu tamamen çözüldü. Akıllı retry mekanizması eklendi. Kalite göstergesi (1080p, 4K vb.) geri getirildi. Performans iyileştirmeleri yapıldı.",
+    "pub_date":  "2026-01-19T15:56:01Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "untrusted comment: signature from tauri secret key\nRUQwCAYspu15BLtIAL+wg9eGc1xE77EgDM6mLfNY7QAUVxdSoNYU3+xQw/vzZEVSxIbg+fSCm3nSMaFDyiJihBZ1oJnUQk+9www=\ntrusted comment: timestamp:1768827361\tfile:Alfa.IPTV.-.Windows.Player_1.0.8_x64-setup.exe\nqxiMt1h/bab01ltklrKX8TI0V4CDnMgsgjvubSiM8fY3IdoPaJx1Fk4j4BO3tmkOfeaa/ajs5p67PIEDH74iBA==\n",
+                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v1.0.8/Alfa.IPTV.-.Windows.Player_1.0.8_x64-setup.exe"
+                                         }
+                  }
 }
