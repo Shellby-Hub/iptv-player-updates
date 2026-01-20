@@ -1,11 +1,12 @@
 {
-    "version": "0.1.8",
-    "notes": "🔥 Güncelleme Sistemi Tamamen Yenilendi\n\n✅ Tauri resmi updater plugin kullanılıyor\n✅ Otomatik indirme ve kurulum\n✅ İlerleme çubuğu\n✅ Gelişmiş hata yönetimi",
-    "pub_date": "2026-01-19T21:36:00Z",
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "",
-            "url": "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.1.8/Alfa_IPTV_Windows_Player_0.1.8_x64-setup.exe"
-        }
-    }
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.1.9/Alfa.IPTV.-.Windows.Player_0.1.9_x64-setup.exe",
+                                             "signature":  "",
+                                             "sha256":  "59f38fbad0a82b9d9306fa32a86a0cb4a4b9eac14725e147d215c3e8ad7954c1"
+                                         }
+                  },
+    "pub_date":  "2026-01-20T17:55:43Z",
+    "version":  "0.1.9",
+    "notes":  "Performans iyileştirmeleri ve hata düzeltmeleri."
 }
