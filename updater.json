@@ -1,11 +1,11 @@
 {
-    "version": "0.1.9",
+    "version": "0.1.11",
     "notes": "🚀 Canlı Yayın Açılış Hızları İyileştirildi\n\n✅ Video başlatma performansı optimize edildi\n✅ Kanal değiştirme hızı artırıldı\n✅ Buffer yönetimi iyileştirildi\n✅ Daha hızlı stream başlatma",
     "pub_date": "2026-01-20T12:57:00+03:00",
     "platforms": {
         "windows-x86_64": {
             "signature": "",
-            "url": "https://github.com/Shellby-Hub/iptv-player/releases/download/v0.1.9/Alfa_IPTV_Windows_Player_0.1.9_x64-setup.exe"
+            "url": "https://github.com/Shellby-Hub/iptv-player/releases/download/v0.1.11/Alfa_IPTV_Windows_Player_0.1.11_x64-setup.exe"
         }
     }
 }
