@@ -2,10 +2,10 @@
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "",
-                                             "url":  "https://github.com/Shellby-Hub/iptv-player/releases/download/v0.1.13/Alfa_IPTV_Windows_Player_0.1.13_x64-setup.exe"
+                                             "url":  "https://github.com/Shellby-Hub/iptv-player/releases/download/v0.1.9/Alfa_IPTV_Windows_Player_0.0.9_x64-setup.exe"
                                          }
                   },
     "pub_date":  "2026-01-20T15:44:24+03:00",
-    "version":  "0.1.13",
+    "version":  "0.1.9",
     "notes":  " Fixed update download (v0.1.14)"
 }
