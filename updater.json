@@ -1,12 +1,12 @@
 {
-    "platforms": {
-        "windows-x86_64": {
-            "url": "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.2.0/Alfa.IPTV.-.Windows.Player_0.2.0_x64-setup.exe",
-            "signature": "",
-            "sha256": "713b1bd34e9f2c22245088d2ea9a2ca9408d2b986c8c8b46c6334801119ef24b"
-        }
-    },
-    "pub_date": "2026-01-20T21:21:06Z",
-    "version": "0.2.0",
-    "notes": "🚀 Sürüm 0.2.0: Dizi bölümleri arasındaki geçişler (Önceki/Sonraki) düzeltildi, sezon sıralaması iyileştirildi ve yeni nesil IronUpdate V2 sistemi devreye alındı."
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.2.1/Alfa.IPTV.-.Windows.Player_0.2.1_x64-setup.exe",
+                                             "signature":  "",
+                                             "sha256":  "460566e3e138e3fce93f458c6a7698326117555ca79eb50d99dffa5f06386005"
+                                         }
+                  },
+    "pub_date":  "2026-01-23T16:35:39Z",
+    "version":  "0.2.1",
+    "notes":  "Performans iyileştirmeleri ve hata düzeltmeleri."
 }
