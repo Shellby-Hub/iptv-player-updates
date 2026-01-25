@@ -1,12 +1,12 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.2.2/Alfa.IPTV.-.Windows.Player_0.2.2_x64-setup.exe",
+                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.2.3/Alfa.IPTV.-.Windows.Player_0.2.3_x64-setup.exe",
                                              "signature":  "",
-                                             "sha256":  "9f8c652fd637fd0cf64cb0d04fad200c93714afc24dd62136f2a5fcd32fd9bde"
+                                             "sha256":  "7087379a609b64802b4fc2003c579c5ba6e989deb1471a0e4cf2b5dcb5f7d4ba"
                                          }
                   },
-    "pub_date":  "2026-01-25T22:21:06Z",
-    "version":  "0.2.2",
+    "pub_date":  "2026-01-25T23:43:46Z",
+    "version":  "0.2.3",
     "notes":  "Performans iyileştirmeleri ve hata düzeltmeleri."
 }
