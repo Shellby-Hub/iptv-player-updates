@@ -1,12 +1,12 @@
 {
-    "platforms": {
-        "windows-x86_64": {
-            "url": "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.2.5/Alfa.IPTV.-.Windows.Player_0.2.5_x64-setup.exe",
-            "signature": "",
-            "sha256": "46e713a23cf41e69f35113d0c37bca6a6594e63e8219e06080667082844c0e7a"
-        }
-    },
-    "pub_date": "2026-03-11T15:20:18Z",
-    "version": "0.2.5",
-    "notes": "Netflix tarzı yeni tasarımı ve performans iyileştirmeleri."
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.2.6/Alfa.IPTV.-.Windows.Player_0.2.6_x64-setup.exe",
+                                             "signature":  "",
+                                             "sha256":  "9ba2ebec6dd48212b6fd2957558ca114cdc9c66561c6cca80fc782e58cf82876"
+                                         }
+                  },
+    "pub_date":  "2026-03-11T22:54:48Z",
+    "version":  "0.2.6",
+    "notes":  "Canlı yayın donma sorunları giderildi, \u0027Tank Modu\u0027 stabilite ayarları eklendi ve GPU hızlandırma iyileştirildi."
 }
