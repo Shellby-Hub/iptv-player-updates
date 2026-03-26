@@ -1,12 +1,12 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.2.6/Alfa.IPTV.-.Windows.Player_0.2.6_x64-setup.exe",
+                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.2.7/Alfa.IPTV.-.Windows.Player_0.2.7_x64-setup.exe",
                                              "signature":  "",
-                                             "sha256":  "9ba2ebec6dd48212b6fd2957558ca114cdc9c66561c6cca80fc782e58cf82876"
+                                             "sha256":  "ec8b2aab9a501c995fd76a9e84dbe8edb42c5e877a02fe58aedb477325e1f2b3"
                                          }
                   },
-    "pub_date":  "2026-03-11T22:54:48Z",
-    "version":  "0.2.6",
-    "notes":  "Canlı yayın donma sorunları giderildi, \u0027Tank Modu\u0027 stabilite ayarları eklendi ve GPU hızlandırma iyileştirildi."
+    "pub_date":  "2026-03-26T15:54:19Z",
+    "version":  "0.2.7",
+    "notes":  "Diziler kısmında bir kategori seçildiğinde içeriklerin listelenmeme sorunu giderildi ve performans iyileştirmeleri yapıldı."
 }
