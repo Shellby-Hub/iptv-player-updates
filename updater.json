@@ -1,12 +1,12 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.2.7/Alfa.IPTV.-.Windows.Player_0.2.7_x64-setup.exe",
+                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.2.8/Alfa.IPTV.-.Windows.Player_0.2.8_x64-setup.exe",
                                              "signature":  "",
-                                             "sha256":  "ec8b2aab9a501c995fd76a9e84dbe8edb42c5e877a02fe58aedb477325e1f2b3"
+                                             "sha256":  "6010083af4d6ae3324d66c83ced9b4397fb4760f6341913220cf55996a0ee5fd"
                                          }
                   },
-    "pub_date":  "2026-03-26T15:54:19Z",
-    "version":  "0.2.7",
+    "pub_date":  "2026-05-14T21:14:18Z",
+    "version":  "0.2.8",
     "notes":  "Diziler kısmında bir kategori seçildiğinde içeriklerin listelenmeme sorunu giderildi ve performans iyileştirmeleri yapıldı."
 }
