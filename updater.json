@@ -1,12 +1,13 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.2.9/Alfa.IPTV.-.Windows.Player_0.2.9_x64-setup.exe",
-                                             "signature":  "",
-                                             "sha256":  "c3b4493ca4040c60b85a2ae48b50fe6bb87fc388c3547d24a160a6d9d17783fb"
+                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.3.1/Alfa.IPTV.-.Windows.Player_0.3.1_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cDJUKzRTUGl1K05lMG1SbkVvRGxSeUFrTHNtRlB3VXI0a2ZUcWtlemlZTjFOM2M2Rk15ajIwVTlUdUFWQWZHTWJXMnJmbUdsYTJBVXJuRVhGS3hqYUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODIzNzg1CWZpbGU6QWxmYSBJUFRWIC0gV2luZG93cyBQbGF5ZXJfMC4zLjFfeDY0LXNldHVwLmV4ZQoxTVhMM3V5TXdUdkdQWWlLZk4rU1RaNEsrU2t0NThPcFl5eERYSitqYnJaMGdaZmJYdm5vSTkxaXF0REJyZDNGQlZkMDBHT20wMytkc3N6TjNSeXlDQT09Cg==",
+                                             "sha256":  "18208a38c7183802f99316784f9d73c4e75febe12b7e88229e47dbf6b1446e6c",
+                                             "size":  85961732
                                          }
                   },
-    "pub_date":  "2026-06-23T23:15:47Z",
-    "version":  "0.2.9",
-    "notes":  "Alfa IPTV v0.2.9: Oynatici ve baglanti isteklerindeki User-Agent uyumsuzlugundan kaynakli banlanma sorunlari giderildi. Canli yayin tampon bellek optimizasyonlari yapildi."
+    "pub_date":  "2026-08-04T09:09:46Z",
+    "version":  "0.3.1",
+    "notes":  "Alfa IPTV v0.3.1: Performans iyilestirmeleri, kararlik guncellemeleri ve hata duzeltmeleri."
 }
