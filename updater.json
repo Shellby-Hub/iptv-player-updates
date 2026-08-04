@@ -1,13 +1,13 @@
 {
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/Shellby-Hub/iptv-player-updates/main/releases/Alfa.IPTV.-.Windows.Player_0.3.8_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cCtoaENNWUpmMXZVQWxkT2thQUY2YUROS2hsdlExa0tLbjVHVVBvWlY5bWVFaWZBeVNCL1cvNGNCRWNCakJsU2ZIRnp5TUk5VlBZUnRUU01tWlJRMndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODYyNjAwCWZpbGU6QWxmYSBJUFRWIC0gV2luZG93cyBQbGF5ZXJfMC4zLjhfeDY0LXNldHVwLmV4ZQp6d3ZrMXNmNzlhb05kdVd3M1hpd0JaTWRvOFd2emd2MGlWODJEaEt5d3FYdVNTUHlDS1RLU3RJcGV1YXJRY1lhN1lXUVlPUzNSeXlOTC9FUmJqR21CUT09Cg==",
-                                             "sha256":  "ca62f96de74a048551e253bc45e1b748e29073a6d11d30bc9c41952937f3c285",
-                                             "size":  85997984
-                                         }
-                  },
-    "pub_date":  "2026-08-04T19:56:41Z",
-    "version":  "0.3.8",
-    "notes":  "Alfa IPTV v0.3.8: Performans iyilestirmeleri, kararlik guncellemeleri ve hata duzeltmeleri."
+    "version": "0.3.9",
+    "pub_date": "2026-08-04T18:05:26.982Z",
+    "notes": "Alfa IPTV v0.3.9: Sessiz güncelleme sistemi (Tauri plugin direkt) ve kararlılık iyileştirmeleri.",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cDRmOW5vWUV3VnBMajdjTkYxd3VrNXNSYWpJeU9VL3RxVUhkS2hyR2xSWG54SVNld3dJZHRxbU11Nm8yUnltdk40dndBVkNFZ1N3VW5USjdiN2M5OGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODY2NjU5CWZpbGU6QWxmYSBJUFRWIC0gV2luZG93cyBQbGF5ZXJfMC4zLjlfeDY0LXNldHVwLmV4ZQptVFd0dHdWbVQ1aUI1Y3lsUTlscCszZU9PMXJtcmR1dk9FR2IzdUY1RFFxMVFrSjVmVmswd05ocHNSenRuWk5uV2lLN0NnU1Bla2p2M2NqRlN4MGZDQT09Cg==",
+            "url": "https://raw.githubusercontent.com/Shellby-Hub/iptv-player-updates/main/releases/Alfa.IPTV.-.Windows.Player_0.3.9_x64-setup.exe",
+            "sha256": "982e4c72f8bd0ce1464037eba7390eecc09b3c56adb25965197b34e16292055c",
+            "size": 85992193
+        }
+    }
 }
