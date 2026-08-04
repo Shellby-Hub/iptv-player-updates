@@ -1,13 +1,13 @@
 {
-    "version": "0.3.9",
-    "pub_date": "2026-08-04T18:05:26.982Z",
-    "notes": "Alfa IPTV v0.3.9: Sessiz güncelleme sistemi (Tauri plugin direkt) ve kararlılık iyileştirmeleri.",
+    "version": "0.3.10",
+    "pub_date": "2026-08-04T18:39:41.842Z",
+    "notes": "Alfa IPTV v0.3.10: Guncelleme gelistirme ekraninda indirme/kurulum asamalari ayri gosterilir, kararlılık iyilestirmeleri.",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cDRmOW5vWUV3VnBMajdjTkYxd3VrNXNSYWpJeU9VL3RxVUhkS2hyR2xSWG54SVNld3dJZHRxbU11Nm8yUnltdk40dndBVkNFZ1N3VW5USjdiN2M5OGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODY2NjU5CWZpbGU6QWxmYSBJUFRWIC0gV2luZG93cyBQbGF5ZXJfMC4zLjlfeDY0LXNldHVwLmV4ZQptVFd0dHdWbVQ1aUI1Y3lsUTlscCszZU9PMXJtcmR1dk9FR2IzdUY1RFFxMVFrSjVmVmswd05ocHNSenRuWk5uV2lLN0NnU1Bla2p2M2NqRlN4MGZDQT09Cg==",
-            "url": "https://raw.githubusercontent.com/Shellby-Hub/iptv-player-updates/main/releases/Alfa.IPTV.-.Windows.Player_0.3.9_x64-setup.exe",
-            "sha256": "982e4c72f8bd0ce1464037eba7390eecc09b3c56adb25965197b34e16292055c",
-            "size": 85992193
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cDBuNVcvZUIzSkJIemlydzJZTFNkb2RMSXVXSXIreU1LeVQwZCtDZW9Senl0TlZwMDl0WHpDaUNBOGFiQXhmZG5CZ0dWdHpYZ2dZeUhxY0lhWllxS1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODY4NzYwCWZpbGU6QWxmYSBJUFRWIC0gV2luZG93cyBQbGF5ZXJfMC4zLjEwX3g2NC1zZXR1cC5leGUKbWlvRHZ3cDBpc3dlVGp6T1NqSW1aYlV0Uk5POXlPc0FRVndzTE5qam1XckRlTzVqcTZ4WHJZNzFTekx6MlN5RUdaUXRSYk1IM1VhV2NBYUNtZGlUQ1E9PQo=",
+            "url": "https://raw.githubusercontent.com/Shellby-Hub/iptv-player-updates/main/releases/Alfa.IPTV.-.Windows.Player_0.3.10_x64-setup.exe",
+            "sha256": "613ae22052176cfb0d5a5fc856e6ba79337f8beb10e7ad987390351a0e9918d9",
+            "size": 85990641
         }
     }
 }
