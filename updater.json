@@ -1,13 +1,13 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://raw.githubusercontent.com/Shellby-Hub/iptv-player-updates/main/releases/Alfa.IPTV.-.Windows.Player_0.3.11_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cHpjV2ZoVkRZejc5bFk3NEdRU0d4dzkva0Q5TjN6STlnZDVqclQ5Zk96cDI3cjVsejRZdERLWlJoQkxXY1NjbEdETUNKWGNBRzRzZ2ozRGlkdnJwUHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODcwNDU3CWZpbGU6QWxmYSBJUFRWIC0gV2luZG93cyBQbGF5ZXJfMC4zLjExX3g2NC1zZXR1cC5leGUKeVJDeGZRc3VSWDBRN01EK0dyNzlGdThyR0t1WTBPRVdUSlJaNldUNHRRaFNab0dSejdlOTZJU0JLelRadWk5Y0hmRnUrSXpFK21QdjZMSG1TWjVVQnc9PQo=",
-                                             "sha256":  "3fdae92370b16bdd260201e40760727a21b151d0dc633b286b8bfededb71d620",
-                                             "size":  85989260
+                                             "url":  "https://raw.githubusercontent.com/Shellby-Hub/iptv-player-updates/main/releases/Alfa.IPTV.-.Windows.Player_0.3.13_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cDJrZ1JueHhiUzFuVWhIbW5IOTNsYWhzQmtNOFFEd21nN3lCckpBeWljeEtjNzdxdlRzbWdQTkNCRWNtUnVLKzdxU3dXeUk1UzVDQ011WFlZcW9mQlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTM0NTA1CWZpbGU6QWxmYSBJUFRWIC0gV2luZG93cyBQbGF5ZXJfMC4zLjEzX3g2NC1zZXR1cC5leGUKT0tDUjhIK0lZN0F2dThNN0xSUTU5b21lZ096bENiamplUkt6SEZTa1hrVUVwTTgxdjl2U0duR1BiUHlkZUJjcTRLRE1rQjNxWWlqQTZ6dnlHMWJzQVE9PQo=",
+                                             "sha256":  "1e10740b6fe4eda5baa24c85752d7a2c78cbd588d02d41fd3cb0141f6e2a7ed9",
+                                             "size":  86063511
                                          }
                   },
-    "pub_date":  "2026-08-04T22:07:37Z",
-    "version":  "0.3.11",
-    "notes":  "Alfa IPTV v0.3.11: Performans iyilestirmeleri, kararlik guncellemeleri ve hata duzeltmeleri."
+    "pub_date":  "2026-08-28T19:28:27Z",
+    "version":  "0.3.13",
+    "notes":  "Alfa IPTV v0.3.13: Performans iyilestirmeleri, kararlik guncellemeleri ve hata duzeltmeleri."
 }
