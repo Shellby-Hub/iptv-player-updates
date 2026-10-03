@@ -1,13 +1,13 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.3.15/Alfa.IPTV.-.Windows.Player_0.3.15_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cHg4WlFWckZRemFOcnVtdVljT21rdExSUlJFWXcvVUJYMVpJR2xNanZkU01EM2puZDhVM0Y5TmJqb0puZzViV25qOGlBeHJmQXg1RmpyU3RMcms2THdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTExMDU2CWZpbGU6QWxmYSBJUFRWIC0gV2luZG93cyBQbGF5ZXJfMC4zLjE1X3g2NC1zZXR1cC5leGUKTngwQWZ0TFZPRXdNdUR1ajNRRERoQllXSk10MlBOUDN3OGwyT2d1eWdLNzV3UjFJclJLREV1anFwTDNjajFhT09CQkpBaFNkZE91N3lGbjhBaWhqQ2c9PQo=",
-                                             "sha256":  "2aec579ef890cf6e0307b61d945aebeeeed15bc1df68139af828b7aa883a5eda",
-                                             "size":  86064167
+                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.3.16/Alfa.IPTV.-.Windows.Player_0.3.16_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cDdjZnNiMGVHNUcrMTF4bUVxWGxRNkEzUWVzemVsaDdua1ZJNkJ0c2JpR2NmR1lzamR5VUNDajRHaC9iZFJLdElKQng0Tm5wT2N2Nll3M0taSFk5UXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDE2NDE2CWZpbGU6QWxmYSBJUFRWIC0gV2luZG93cyBQbGF5ZXJfMC4zLjE2X3g2NC1zZXR1cC5leGUKUDJzVXlQQ0lXK3hOa1VhNW5HeWxyaldFWWczallyVExLVWtpcXhnOVhnRWJUSVpMRFV1am96M1c3cVBkOGVaRXJPbDEzMUYzRUdPN2JqdDVMdjZoRFE9PQo=",
+                                             "sha256":  "57e967c57fcc36287628421cbdf9a3442d6a70ccbfa5c461487462b79a18596e",
+                                             "size":  86071830
                                          }
                   },
-    "pub_date":  "2026-08-30T20:30:57Z",
-    "version":  "0.3.15",
-    "notes":  "Alfa IPTV v0.3.15: Hiz, stabilite, kapali kanal aninda algilama ve baglanti optimizasyonlari."
+    "pub_date":  "2026-10-03T11:33:37Z",
+    "version":  "0.3.16",
+    "notes":  "Alfa IPTV v0.3.16: Hiz, stabilite, kapali kanal aninda algilama ve baglanti optimizasyonlari."
 }
