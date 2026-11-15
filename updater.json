@@ -1,13 +1,13 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.3.22/Alfa.IPTV.-.Windows.Player_0.3.22_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cDh6NzJrc1BWdFkwWE1uRzE0VTBac0JyODBNZEFLYTJFblNCVitvY29YYXFtSmhzN0FJYkM4TlJmeHRGQ1lFYXhrZU02cGdLeEdiZWJGTExwcm1DWkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzMwOTUzCWZpbGU6QWxmYSBJUFRWIC0gV2luZG93cyBQbGF5ZXJfMC4zLjIyX3g2NC1zZXR1cC5leGUKcUhaOWZCWkRLbkU1Q3VBUHYzRGYrRy9IZ0FWYXdUTWdTdUtGS3Y5T3crRHc3TDRyVW14aXAxYW0vM3VLSVBieEVWK3dqQkxNcDRtYmVlNE5UZkF6RGc9PQo=",
-                                             "sha256":  "ac1557d573763b7cb485f72130ab6a2cba71062586c0a75832b81ef51701ba1f",
-                                             "size":  85768978
+                                             "url":  "https://github.com/Shellby-Hub/iptv-player-updates/releases/download/v0.3.23/Alfa.IPTV.-.Windows.Player_0.3.23_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWFRLaFR2bnB2cDdRZWtLdmpqWVEwdm9BNXVkRENGaXU4amJDVlJoSkZHL3hzdUVGdXUxd1hLN1BNWjlFa25SUCt4VlpOMTZ3MzhEUVR0M3pRMXVicGwxeE0rZlJLekFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzc3NjE0CWZpbGU6QWxmYSBJUFRWIC0gV2luZG93cyBQbGF5ZXJfMC4zLjIzX3g2NC1zZXR1cC5leGUKZ3E5MW00MVFtbXhyWUVPVW5CRE01UVE4N1ZocHBzdTlNeFMrTkg3eDNMZEpkR1BreTNTK042bnh0RjVmdlA4aWx2eW5GS2ZMWjVZTlpUMmQ3bE5tQnc9PQo=",
+                                             "sha256":  "3008de3b46445e746366d510cdb4b2e8daf06e973e0d015b83894c9f2aa3053c",
+                                             "size":  85769826
                                          }
                   },
-    "pub_date":  "2026-11-15T11:22:34Z",
-    "version":  "0.3.22",
-    "notes":  "Alfa IPTV v0.3.22: Oynatici kapatma (\u0027X\u0027) ve ESC tek tik optimizasyonu, shuffle odak ve watchdog kararliligi."
+    "pub_date":  "2026-11-16T00:20:15Z",
+    "version":  "0.3.23",
+    "notes":  "Alfa IPTV v0.3.23: Oynatici kapatma (\u0027X\u0027) ve ESC tek tik optimizasyonu, shuffle odak ve watchdog kararliligi."
 }
